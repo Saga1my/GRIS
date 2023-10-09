@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "jn4cIVxy5VaakHocKiK2RKiUksD4Nkx8lDpqWAi+z37RmuTS/MxxRiQkZXtptkJcqzMk0Fk5M/J0fd8z9u/nnw==",
+  "dgSpecHash": "ARJfg8rXKMUvd0buftzQbWoKlYx5SZoMASlPOVH5Wlvx83dFiO+0sb/B9shOUrnd2UsFoBe4uSAYG6w6d0+G9Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\saga.palm1\\Documents\\Programmering\\GRIS\\GRIS\\GRIS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saga.palm1\\.nuget\\packages\\raylib-cs\\4.2.0.2\\raylib-cs.4.2.0.2.nupkg.sha512",
-    "C:\\Users\\saga.palm1\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+    "C:\\Users\\saga.palm1\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\saga.palm1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\saga.palm1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\saga.palm1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\saga.palm1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
   ],
   "logs": []
 }
